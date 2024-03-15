@@ -1,0 +1,3 @@
+[submodule "src/main/resources/linkpay-openapi"]
+	path = src/main/resources/linkpay-openapi
+	url = https://gitlab.ops-link.com/backend/linkpay-openapi.git
